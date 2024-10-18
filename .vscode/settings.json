@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Libidrinovel.sln"
+    "dotnet.defaultSolution": "LibidriVisualNovel.sln"
 }
